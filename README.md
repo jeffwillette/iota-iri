@@ -3,7 +3,14 @@
 This is a shell script that was written to be able to launch a full IOTA IRI public node
 with a single command. This script requires docker to be installed 4GB ram is the smallest
 amount of memory I have been successful on. (2GB ram fails and 3GB is not available on my
-cloud provider)
+cloud provider). If you can't run your own node, you can always donate to my hosting
+fund...
+
+IOTA: 
+
+```
+MMVVFBGQOYYKOWR9TVUWZFIQWJAXLAWLNBEKFZOCQCNESQVNZOPKSCPEGQXSJCGOIXKUZKHJDWHTT9UZXDTRWBRPMW
+```
 
 ### Neighbors 
 
